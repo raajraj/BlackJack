@@ -1,7 +1,7 @@
 //main.c for BlackJack project
 //contains two State Machines, 1 for LCD and 1 for dealing cards
 //Raajitha Rajkumar
-//CS120B TA: David Feng
+
 
 #include <avr/io.h>
 #include <stdio.h>
